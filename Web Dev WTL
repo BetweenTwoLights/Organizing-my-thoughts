@@ -1,0 +1,58 @@
+Collection of resources, lists, ideas, etc. focused on subjects and technologies that I want to study, learn to use, etc.
+
+JavaScript ES6 
+React
+Angular
+Vue
+Gulp
+Grunt
+TypeScript, NativeScript
+Backbone
+JQuery
+Webpack
+Browserify
+Node.js
+npm
+Yarn
+Mocha
+Jasmine
+Enzyme
+Tape
+Native apps
+Apache Cordova
+Phone Gap
+ECMAScript
+Deb.js
+Firebug
+PlayCanvas
+Odyssey
+NodeBB
+ESLint
+JSLint
+Sass
+SCSS
+LESS
+Sublime Text
+Atom
+Meteor
+MySQL
+MongoDB
+D3.js
+Epoch
+WebStarter Kit
+Reveal.js
+RxJS
+
+Framework - Angular, Vue, Backbone, Ember, Knockout, Aurelia, Svelte
+Library - jQuery, React, Lodash, Underscore, Polymer, Conditioner.js
+General purpose task runner -  Gulp, npm, Grunt
+Module Bundlers - Webpack, Browserify, RequireJS
+Linting - ESLint, JSHint, JSLint
+TestSuite - Mocha, Jasmine, QUnit
+Compiler - TypeScript, LiveScript, CoffeeScript
+JavaScript-powered HTML Template engine - Mustache, Handlebars, Pug(Jade), EJS, doT
+Documentation Generator - ESDoc, JSDoc,YUIdoc, documentation.js, Transcription
+Package manager - npm, Yarn
+Mobile Framework - Native apps, Apache Cordova
+CSS Preprocessor - Sass/SCSS, LESS
+Editor - Sublime Text Atom
